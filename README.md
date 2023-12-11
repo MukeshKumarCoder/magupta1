@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Wakar Malik</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Mukesh Kumar</h1>
 <h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and is always ready to learn new things 😃. I focus on writing clean, elegant, and efficient code ✨.</h4>
 
 🌍 I'm from Siwan, Bihar India
-   Currently, i'm in Delhi
+   Currently, I'm in Delhi
 
 
 🚀 I have learned CSS libraries like Chakra UI, Bootstrap & Tailwind.
