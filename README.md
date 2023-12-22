@@ -11,7 +11,7 @@
 
 📧 Email - mg328790@gmail.com
 
-💼 Portfolio - [https://magupta1.github.io/mukesh_gupta/)
+💼 Portfolio - [https://magupta1.github.io/mukesh_gupta_coder/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-gupta-49108624a/) 
